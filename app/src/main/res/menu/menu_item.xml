@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemAdd"
+        android:title="장바구니 추가" />
+    <item
+        android:id="@+id/itemIntroduce"
+        android:title="개발자 소개" />
+    <item
+        android:id="@+id/itemfinish"
+        android:title="앱 종료" />
+</menu>

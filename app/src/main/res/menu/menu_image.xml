@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item01"
+            android:title="유제품" />
+        <item
+            android:id="@+id/item02"
+            android:title="육류/해산물" />
+        <item
+            android:id="@+id/item03"
+            android:title="빵" />
+        <item
+            android:id="@+id/item04"
+            android:title="과일" />
+        <item
+            android:id="@+id/item05"
+            android:title="패스트푸드" />
+        <item
+            android:id="@+id/item06"
+            android:title="레토르트" />
+        <item
+            android:id="@+id/item07"
+            android:title="간식" />
+    </group>
+</menu>

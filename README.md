@@ -14,12 +14,26 @@ Kotlin과 Room Database 및 RecyclerView를 활용하는 방법을 학습하기 
 ## Screenshots
 
 ### Main Screen
-<img width="1080" height="2400" alt="main" src="https://github.com/user-attachments/assets/2e9e2163-2ab2-4600-b241-ecfa8777038c" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e9e2163-2ab2-4600-b241-ecfa8777038c" width="250">
+</p>
 
 ### Add Product
-<img width="1080" height="2400" alt="AddCart_필수항목" src="https://github.com/user-attachments/assets/9e3733d2-dd8c-4ba5-97cb-d40a3d010159" />
-<img width="1080" height="2400" alt="AddCart" src="https://github.com/user-attachments/assets/3c569a26-49a7-406d-b38e-590ecf392387" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9e3733d2-dd8c-4ba5-97cb-d40a3d010159" width="250"><br>
+      Required Field Validation
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3c569a26-49a7-406d-b38e-590ecf392387" width="250"><br>
+      Add Product
+    </td>
+  </tr>
+</table>
 
 ### Edit Product
-<img width="1080" height="2400" alt="EditCart" src="https://github.com/user-attachments/assets/bf5efbaf-9196-4351-bb5c-c1feb63efa71" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf5efbaf-9196-4351-bb5c-c1feb63efa71" width="250">
+</p>

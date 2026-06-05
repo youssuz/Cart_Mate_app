@@ -23,12 +23,12 @@ Kotlin과 Room Database 및 RecyclerView를 활용하는 방법을 학습하기 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/9e3733d2-dd8c-4ba5-97cb-d40a3d010159" width="250"><br>
-      Required Field Validation
-    </td>
-    <td align="center">
       <img src="https://github.com/user-attachments/assets/3c569a26-49a7-406d-b38e-590ecf392387" width="250"><br>
       Add Product
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9e3733d2-dd8c-4ba5-97cb-d40a3d010159" width="250"><br>
+      Required Field Validation
     </td>
   </tr>
 </table>

@@ -14,9 +14,20 @@ Kotlin과 Room Database 및 RecyclerView를 활용하는 방법을 학습하기 
 ## Screenshots
 
 ### Main Screen
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/2e9e2163-2ab2-4600-b241-ecfa8777038c" width="250">
-</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2e9e2163-2ab2-4600-b241-ecfa8777038c" width="250"><br>
+      Main Screen
+
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e2849c03-bcf9-4e00-9c11-05c5b62e9728" width="250"><br>
+      Delete Product
+    </td>
+  </tr>
+</table>
 
 ### Add Product
 

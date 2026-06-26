@@ -108,7 +108,7 @@ class MainActivity : AppCompatActivity() {
             R.id.itemIntroduce -> { // 개발자 소개
                 val builder: AlertDialog.Builder = AlertDialog.Builder(this).apply {
                     setTitle("개발자 소개")
-                    setMessage("동덕여자대학교 컴퓨터학과 20210285 윤수지")
+                    setMessage("컴퓨터학과 윤수지")
                     setPositiveButton("확인", null)
                     setCancelable(false)
                 }
